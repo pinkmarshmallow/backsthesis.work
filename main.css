@@ -1,0 +1,45 @@
+body {
+  background-color: gainsboro;
+}
+
+
+.square {
+    height: 150px;
+    width:150px;
+    background-color: aqua;
+    position: fixed;
+    top: 50%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+}
+
+.square2 {
+    height: 150px;
+    width:150px;
+    background-color: rgba(22, 41, 124, 0.96);
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.square3 {
+    height: 150px;
+    width:150px;
+    background-color: #8d1e1e;
+    position: fixed;
+    top: 50%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+}
+
+.button1 {
+  position:absolute;    
+  background-color: rgba(22, 41, 124, 0.96); 
+  border: none;
+  color: white;
+  height: 300px;
+  width: 300px;
+}
+
+
