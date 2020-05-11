@@ -4,33 +4,33 @@ body {
 
 
 .square {
-    height: 150px;
+    height: 250px;
     width:150px;
-    background-color: aqua;
+    background-color: #adc3d6;
     position: fixed;
     top: 50%;
     left: 20%;
-    transform: translate(-50%, -50%);
+    transform: translate(180%, -100%);
 }
 
 .square2 {
-    height: 150px;
+    height: 250px;
     width:150px;
-    background-color: rgba(22, 41, 124, 0.96);
+    background-color: #adc3d6;
     position: fixed;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(10%, -100%);
 }
 
 .square3 {
     height: 150px;
-    width:150px;
-    background-color: #8d1e1e;
+    width:326px;
+    background-color: #adc3d6;
     position: fixed;
     top: 50%;
     left: 80%;
-    transform: translate(-50%, -50%);
+    transform: translate(-181%, 18%);
 }
 
 .button1 {
@@ -41,5 +41,4 @@ body {
   height: 300px;
   width: 300px;
 }
-
 
